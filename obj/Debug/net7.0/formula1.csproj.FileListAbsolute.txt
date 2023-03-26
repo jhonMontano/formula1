@@ -1,0 +1,30 @@
+C:\Users\Andrés\formula1\bin\Debug\net7.0\formula1.exe
+C:\Users\Andrés\formula1\bin\Debug\net7.0\formula1.deps.json
+C:\Users\Andrés\formula1\bin\Debug\net7.0\formula1.runtimeconfig.json
+C:\Users\Andrés\formula1\bin\Debug\net7.0\formula1.dll
+C:\Users\Andrés\formula1\bin\Debug\net7.0\formula1.pdb
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.csproj.AssemblyReference.cache
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.AssemblyInfoInputs.cache
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.AssemblyInfo.cs
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.dll
+C:\Users\Andrés\formula1\obj\Debug\net7.0\refint\formula1.dll
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.pdb
+C:\Users\Andrés\formula1\obj\Debug\net7.0\formula1.genruntimeconfig.cache
+C:\Users\Andrés\formula1\obj\Debug\net7.0\ref\formula1.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\bin\Debug\net7.0\formula1.exe
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\bin\Debug\net7.0\formula1.deps.json
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\bin\Debug\net7.0\formula1.runtimeconfig.json
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\bin\Debug\net7.0\formula1.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\bin\Debug\net7.0\formula1.pdb
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.csproj.AssemblyReference.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.AssemblyInfo.cs
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.csproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\refint\formula1.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.pdb
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\formula1.genruntimeconfig.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\formula1\obj\Debug\net7.0\ref\formula1.dll
