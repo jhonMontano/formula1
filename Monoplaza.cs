@@ -64,10 +64,11 @@ public abstract class Monoplaza : IMonoplaza
         while (VueltasRestantes > 0)
         {
             double tiempo = GenerarTiempo();
-            Console.WriteLine($"Tiempo de vuelta: {tiempo}");
+            Console.WriteLine($"Tiempo de vuelta: {Escuderia} {tiempo}");
             if (tiempo < MejorTiempo)
             {
                 MejorTiempo = tiempo;
+                
             }
             VueltasRestantes--;
         }
