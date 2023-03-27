@@ -40,7 +40,7 @@ public class Circuito
         {
             monoplaza = null;
 
-            Console.WriteLine("Se ha retirado exitosamente!");
+            Console.WriteLine($"Se ha retirado exitosamente!");
         }
         else
         {
@@ -68,7 +68,7 @@ public class Circuito
 
         monoplaza.Apagar();
 
-        Console.WriteLine($"Mejor tiempo: {Tiempos.Min()}");
+        Console.WriteLine($"\nMejor tiempo: {Tiempos.Min()}");
     }
 
 
@@ -76,8 +76,8 @@ public class Circuito
     {
         for (int i = 0; i < Tiempos.Count; i++)
         {
-
-            Console.WriteLine(Tiempos[i]);
+            Console.WriteLine("\nTorneo: "+nombre);
+            Console.WriteLine("Tiempo: "+Tiempos[i]);
         }
 
 

@@ -78,6 +78,7 @@ public abstract class Monoplaza : IMonoplaza
         
         return MejorTiempo;
     }
+    
 
     private static double GenerarTiempo()
     {
